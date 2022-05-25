@@ -1,5 +1,5 @@
 # Maya
-Personal AI project
+Maya is a personal AI project I work on.
 
 
 # Install
