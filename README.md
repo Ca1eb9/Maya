@@ -3,8 +3,8 @@ Maya is a personal AI project I work on. The project is extremely basic for now.
 
 ## Issues
 If you see or encounter even a potential bug or issue, please make a [new issue](https://github.com/Ca1eb9/Maya/issues) or type
-`-issue` followed by your issue in your Maya application. (`-issue your issue`) When submitting an issue, please mention your 
-Maya version(left hand corner of Maya) and your OS.
+`-issue` followed by your issue in your Maya application. (`-issue your issue`) When submitting an issue, please include your 
+Maya version(left hand corner of Maya app) and your OS.
 
 ## Updating
 There will be updated versions of Maya released here, however, if you already have any version, your Maya should auto update to the newest version on launch.
