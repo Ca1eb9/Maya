@@ -15,10 +15,10 @@ Maya can play any Youtube video you ask it to and play multiple radio stations. 
 ## Install
 Download the latest version for your OS at this [link](https://github.com/Ca1eb9/Maya/releases). No install is required.
 
-##Use
+## Use
 Please be sure to press "Allow" on all requests of Administrator Privileges from Maya(Maya.exe), Python(Runtime Maya is run on), and on Windows: Windows Script Host(to allow for Maya to auto restart after update), internet firewall, etc. or any other requests if asked. I can guarantee that there is NO malicious software(malware, unwanted software, spyware, etc.) in Maya and its files, so you should not worry about allowing these privileges.
 
-###Abilities
+### Abilities
 Currently, Maya only has these ablitys:
 - Sleep
   Ask Maya to sleep and to ignore your future requests until you wake it(wake up)
@@ -41,7 +41,7 @@ Currently, Maya only has these ablitys:
   Ask Maya for a good majority of the current weather related details(temperature, wind speed, etc.)
 You can talk to Maya both through the Maya client or by activating it by speaking "Hey Maya"(Hey Mai * Uh) followed by your request.
 
-##Artificial Intelligence
+## Artificial Intelligence
 The plan is to create a conscious/semi-conscious(by definition) AI.
 At the moment, Maya only uses machine learning to detect certain intents and extract certain entitys.
 Please be patient with the potential low-level request recognition.
