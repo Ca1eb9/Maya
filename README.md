@@ -34,9 +34,13 @@ Currently, Maya only has these ablitys:
   - Pause or unpause/resume currently playing media
   - Repeat the last played media
   - Skip the currently playing media
+  
   Ask Maya to play one of over 8 different genre radio stations(Pop radio, Hip Hop radio, etc.)
+  
   Request the currently playing media
+  
   Stop the currently playing media("stop the music/radio" specifically due to 'stop' being a broad command)
+
 - Weather
   Ask Maya for a good majority of the current weather related details(temperature, wind speed, etc.)
 
