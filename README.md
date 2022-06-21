@@ -49,7 +49,7 @@ Currently, Maya only has these ablitys:
   
   Ask Maya for a good majority of the current weather related details(temperature, wind speed, etc.)
 
-You can talk to Maya both through the Maya client or by activating it by speaking "Hey Maya"(Hey Mai * Uh) followed by your request.
+You can talk to Maya both through the Maya textbox in the client or by activating it by speaking "Hey Maya"(Hey Mai * Uh) followed by your request.
 
 ## Artificial Intelligence
 The plan is to create a conscious/semi-conscious(by definition) AI.
