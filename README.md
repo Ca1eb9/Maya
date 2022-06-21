@@ -21,14 +21,18 @@ Please be sure to press "Allow" on all requests of Administrator Privileges from
 ### Abilities
 Currently, Maya only has these ablitys:
 - Sleep
+  
   Ask Maya to sleep and to ignore your future requests until you wake it(wake up)
 - Dice
+  
   Ask Maya to roll any number of dice(up to 6)
 - Remembrance
+  
   Ask Maya to remember anything you tell it(specifically future events or things to do on specific dates)
   Ask Maya to remove specific dates in which it has remembered
   Ask Maya to tell you what you have told it to remember on a specific date
 - Media Playing
+  
   Ask Maya to play any media on Youtube(URL or title)
   - Turn loop of currently playing media on or off
   - Pause or unpause/resume currently playing media
