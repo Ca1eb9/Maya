@@ -46,6 +46,7 @@ Currently, Maya only has these ablitys:
   Stop the currently playing media("stop the music/radio" specifically due to 'stop' being a broad command)
 
 - Weather
+  
   Ask Maya for a good majority of the current weather related details(temperature, wind speed, etc.)
 
 You can talk to Maya both through the Maya client or by activating it by speaking "Hey Maya"(Hey Mai * Uh) followed by your request.
