@@ -39,9 +39,10 @@ Currently, Maya only has these ablitys:
   Stop the currently playing media("stop the music/radio" specifically due to 'stop' being a broad command)
 - Weather
   Ask Maya for a good majority of the current weather related details(temperature, wind speed, etc.)
+
 You can talk to Maya both through the Maya client or by activating it by speaking "Hey Maya"(Hey Mai * Uh) followed by your request.
 
 ## Artificial Intelligence
 The plan is to create a conscious/semi-conscious(by definition) AI.
 At the moment, Maya only uses machine learning to detect certain intents and extract certain entitys.
-Please be patient with the potential low-level request recognition.
+Please be patient with potential low-level request recognition.
