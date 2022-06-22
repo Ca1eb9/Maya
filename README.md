@@ -35,7 +35,7 @@ Currently, Maya only has these ablitys:
   Ask Maya to play any media on Youtube(URL or title)
   - Turn loop of currently playing media on or off
   - Pause or unpause/resume currently playing media
-  - Repeat the last played media
+  - Replay the last played media
   - Skip the currently playing media
   
   Ask Maya to play one of over 8 different genre radio stations(Pop radio, Hip Hop radio, etc.)
