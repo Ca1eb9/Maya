@@ -1,7 +1,8 @@
 # Maya
 Maya is a personal AI project I work on. The project is extremely basic for now. Please read all of the directions below before use.
 
-# The use of this project is longer supported as the Maya server is no longer being hosted
+## The use of this project is longer supported
+The Maya server is no longer running so no apps can be used.
 I hope to release new improvements as I have time to work on them
 
 ## Issues
