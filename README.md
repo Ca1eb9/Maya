@@ -58,3 +58,6 @@ You can talk to Maya both through the Maya textbox in the client or by activatin
 The plan is to create a conscious/semi-conscious(by definition) AI.
 At the moment, Maya only uses machine learning to detect certain intents and extract certain entitys.
 Please be patient with potential low-level request recognition.
+
+# Images:
+![Maya Application Image](maya.png)
